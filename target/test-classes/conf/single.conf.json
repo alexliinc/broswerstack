@@ -4,7 +4,7 @@
   "key": "LiD4nsZACtUDzt3ByBpt",
 
   "capabilities": {
-    "name": "Bstack-[Junit] Sample Test",
+    "name": "Bstack-[Junit] Sample Single Test",
     "browserstack.debug": true
   },
 

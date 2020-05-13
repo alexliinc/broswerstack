@@ -1,4 +1,4 @@
-package com.broswerstack.takehome;
+package com.browserstack.takehome;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
