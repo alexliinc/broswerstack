@@ -1,0 +1,20 @@
+{
+  "server": "hub-cloud.browserstack.com",
+  "user": "alexli20",
+  "key": "LiD4nsZACtUDzt3ByBpt",
+
+  "capabilities": {
+    "name": "Bstack-[Junit] Parallel Test",
+    "browserstack.debug": true
+  },
+
+  "environments": [{
+    "browser": "chrome"
+  },{
+    "browser": "firefox"
+  },{
+    "browser": "safari"
+  },{
+    "browser": "internet explorer"
+  }]
+}
