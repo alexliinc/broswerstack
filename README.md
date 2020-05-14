@@ -8,4 +8,4 @@
 * To run parallel tests, run `mvn test -P parallel`
 
 ## Jenkins
-* Build File(https://github.com/alexliinc/browserstack/blob/master/Jenkinsfile)
+* [Build File](https://github.com/alexliinc/browserstack/blob/master/Jenkinsfile)
